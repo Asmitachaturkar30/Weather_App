@@ -9,7 +9,7 @@ def index(request):
     err_msg = 'error'
     message = 'message'
     message_class = 'message_class'
-    api_key = 'a7ff56752a1764d2f4cbe505280202aa'
+    api_key = 'api_key'
     
     
 
